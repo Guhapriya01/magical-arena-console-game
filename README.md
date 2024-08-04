@@ -111,6 +111,3 @@ Magical Arena
   - `testReduceHealthNormal()`: Tests the reduction of the player's health under normal condition.
   - `testReduceHealthToZero()`: Tests the reduction of the player's health to zero when it's reduced to an amount greater than its current health.
   - `testIsAlive()`: Tests whether the player is alive.
-
-
-##### Thank you for considering my submission!
